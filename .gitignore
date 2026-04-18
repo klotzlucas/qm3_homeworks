@@ -1,2 +1,5 @@
-!*.docx
+*.docx
+*/raw_data/
+*/2.output/
+.DS_Store
 
